@@ -1,0 +1,170 @@
+
+= Echidna System, the Mother of all Systems
+
+Echidna System is a Gaming Operating System designed to run ontop of the
+Linux Kernel (with allowances to run ontop a BSD, Solaris, AIX, Darwin,
+etc., kernel in the future). The main notion of this system is to allow
+for a quick and easy way to boot up a secure and well written FlOSS gaming
+set of libraries and functionality to be pushed forward much more.
+
+Echidna's main goal is to allow developers to make money on products sold 
+on this FlOSS platform. With as few issues with hardware encountered, as
+due to taking into account poorly coded products and expecting to encounter
+very bad code (video game programmers these days are no Carmacks). Most
+games should run on all hardware platforms equally well--but most programmers 
+seem to have no clue what they are doing in the game industry (no, really, 
+check some of their stuff... it is excessively fugly in a LOT of places).
+
+Due to major issues figuring out directions in various other projects,
+that mostly have a fair amount of shared code between all of them. Having 
+issues with me coding something, saying, "this needs to be a library" or 
+"wait... this library did not need to be done...", for a large amount of 
+my projects that do not have many other better options out there. I have
+decided the simpler solution is one large monolithic project (A gaming 
+framework system.OS). As rather than my compressed twelve project system I 
+have been using, I now have one large project to make use of... that the 
+others will eventually fork off from. Yeah, seems counter intuitive, but that 
+is kind of my personal style.
+
+Echidna, as reference to the monster from Greek Mythology will hope to 
+sleep with similar like minded systems, and spawn of horrible portible 
+autrocity children... which much like Greek Mythology Echidna will either have
+copious amounts of copulation with, or Zeus (AKA: Linux) will notice the tight
+(coding) dress and have some time with them.
+
+Echidna System will contain the following projects to fork off from it:
+
+== JIT Compiler Structes
+
+Taking ideas from SAGE Miss System, a fair amount of Echidna System will
+contain a fair amount of machine code to machine code JIT Compilers. In that
+as the system is running, and ARM Code is running on a system that does not
+know it, the system will dynamically compile it, as it is running. With 
+a few JIT optimisation routines and code checks.
+
+The JIT structure will be there to translate one set of code from on 
+hardware that can understand it, to another. With the usual optimisations
+that tend to show up with this (it may run faster to have Nvideo code go
+to ATI graphics hardware one day).
+
+= Modular Text Based Web Browser HTML5/CSS3/DOM5/PDF aware
+
+Just something that bugs me about the lack of a decent set of choices here
+existing, really.
+
+This likely will be how a text based interface may work (one day). To 
+allow for something to force the system to boot up much quicker. Like in 
+the old Amiga days, when you turn the computer one, and get a prompt...
+whether the OS loaded or not.
+
+== Secure Data Transfer Systems
+
+The following additional libraries will be worked into this:
+
+* Secure PNG
+* Secure Huffman
+* Secure Tarball
+* Secure LZMA
+
+Each of which will have all sorts of checksum, encyption, etc., options, 
+to confirm information that has or has not properly transferred. Also 
+mechanisms, that if the information has not transferred completely, to note
+(only 75% of interlacing recovered, for example) this occurance much 
+easier. With each seperate data handled as different sets--even if it is 
+required to be a congruent set of information to work.
+
+== Tagged Data Transfer Systems
+
+With the addition of the following formats available in Echidna system 
+(which will be free to see elsewhere, btw), different formats will have
+their comments section kludgled to have tagging data containable. So 
+like how the MP3 format has tags, Huffman, PNG and LZMA encoded images 
+will have something to tag the contents of the images, of people and 
+different items (like hair colour, breasts, animal, etc. Thank you internet
+porn, yet again).
+
+The system's storage format will be preferrably a tag based one to 
+look through. Where traversing directories will merely be a matter of 
+filtering the contents of the file you wish to search for.
+
+== Simplistic Load and Interface Setup
+
+Antoich's Handgrenade will be the GUI project run, which will take various
+notions Google and Apple have been championing, and apply it onto the QT4
+framework. With some items found in the Android OS being made easier to 
+do in QT4 type projects.
+
+The FWOS (Framework Operating System) booting will try to be as quick and simple as well.
+
+== Secure Data Set Transfer for Profit
+
+A package management system that has allowances in its handling to have
+money exchange hands for the products sent back and forth. For the initial
+bit, a fictional currency will be in work. The idea is to figure out a 
+system to allow for the developers to have a bit more control of the 
+products distrobution in a secure manner, without requiring a GUI to be
+currently running and internet access to be set up.
+
+The system's package management system, will be designed with the notion
+that the package management system is to allow money to be exchanged hands.
+
+== Darknet Inclusion
+
+As a Gaming OS, Echidna needs to keep privacy in mind. Either from Nintendo's 
+view "THINK OF THE FVCKING CHILDREN YOU BUGGER! *sob*" to what has occured 
+with Sony's mismanagement of PSN, one of the main items on Echidna is that
+all transactions will be hard to track enough information to say they 
+belong to John Becker of 656 Feildview Crescent, Towilliger, Kansas 67431-3542-453 whose credit card is 5647 0975 8094 9565 (secure: 564) expire 06/17
+
+The information will merely be the context required, and typically encrypted
+to the point of nearly requiring a large amount of man in the middling to 
+log all of it.
+
+Various Darknets will be looked into, from Perfect Dark, Onion Route and
+most of what the Cult of the Dead Cow have looked into.
+
+== Improved Random Number Daemon
+
+Random Numbers contain far too much entrophy for anybody's likings. Yes, 
+the system may seem mathematically proven to rarely repeat, but anybody 
+with a random music playlist seems to conclude that this math is shullbit.
+
+Echidna FWOS hopes to fix entrophy by adding moar entrophy. In the random
+number system, a range will be given. The Daemon will maintain the existance
+of this range (with it returning whether that range exists or not currently).
+
+This range will have each option given a window weight. Each time that option
+is hit with the random number generation, the window weight will be lowered.
+The result is a small window to hit that number again.
+
+The random number system allows for different, "window placing", "refresh" 
+and "scrap window" timings to be set up inside its operation. To keep the 
+generator glossy enough of a surface to make use of.
+
+== Samples games and engines run on this system
+
+Which will include
+
+* Point/Wave Base-C Physics System
+* Image Tile System
+* MOG (Multiplayer Online Game) System
+* Battle Simulator Engines
+* Communication Systems
+
+== Social Network STUBS
+
+Due to how the world is moving with Web 2.0 and the ideas of Web 3.0 coming
+into place, Echidna will produce Web 3.11 For Workgroups.
+
+Each system will be designed to work as an OpenID/OAuth identification point
+that the user will have 100% control over.
+
+It will also be designed to work as a node in a larger decentralised 
+Social Networking system, akin to Apple Seed and Daispora type concepts.
+At worst like USENET (me 2!).
+
+The social network would work with the other anonyimising agents, so any 
+information you proprogate further down, is 100% under your control as
+9 times out of 10 you will have this running on hardware physically located
+near your person.
+
