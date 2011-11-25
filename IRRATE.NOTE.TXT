@@ -1,0 +1,9 @@
+
+Okay... just having a bit of irritation with how Git is setup on this system.
+
+Typically I thought different branches of a git archive were to contain 
+different files. Other set ups had me understanding this. This system 
+does not seem to be reflecting this.
+
+Gonna go kill something, and then return.
+
